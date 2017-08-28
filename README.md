@@ -1,4 +1,4 @@
-#Jenkins+gradle+svn+windows自动化编译、上传svn#
+#  Jenkins+gradle+svn+windows自动化编译、上传svn  #
 	最近公司业务需求比较少，空闲下来。把之前搭建jenkins分享给大家，Jenkins可以从svn上面拉取代码到本地上编译生成apk文件，再
 	自动上传到svn，并可以自动发出邮件给相关人员。虽然网上也有很多关于这方面的资料。但是这篇文章有网上没有的<br>
 **apk注入svn源码路径、版本号、jenkins build号**<br>
