@@ -14,7 +14,7 @@
 ![点击下载](download.png)<br>
 	3.点击windows版或者.war，windows启动时通过dos命令行方式启动的，而war包是可以通过tomcat服务器启动的<br>
 	4.将下载的jenkins.war放到Tomcat下的webapps目录下，然后启动Tomcat。在浏览器中访问"Tomcat访问地址/jenkins"即可安装，因为
-	我的Tomcat装在本机，并且端口为8080，所以访问http://localhost:8080/jenkins/即可进行安装。
+	我的Tomcat装在本机，并且端口为8080，所以访问http://localhost:8080/jenkins/ 即可进行安装。
 ## 插件安装 ##
 	1.点击系统管理，再点击插件管理，本项目代码管理工具为svn,安装需为svn、gradle、Build Environment Plugin（apk可以拿到构建的环境变量）、
 	Build With Parameters（编译时可以注入一些动态的参数）
